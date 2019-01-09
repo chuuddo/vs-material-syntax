@@ -1,4 +1,4 @@
-# Colors
+### Colors
 | ID                                       | Attribute  | VS color   | Material name    | Material HTML |
 |------------------------------------------|------------|------------|------------------|---------------|
 | Plain Text                               | Foreground | 0x00F1EFEC | BLUE_GREY_50     | #ECEFF1       |
