@@ -2,6 +2,7 @@
 | ID                                                    | Color (Material ID)        |
 |-------------------------------------------------------|----------------------------|
 | XML Doc Comment (Foreground)                          | #78909C (BLUE GREY 400)    |
+| urlformat (Foreground)                                | #FF9E80 (DEEP ORANGE A100) |
 | Visible Whitespace (Foreground)                       | #455A64 (BLUE GREY 700)    |
 | Line Number (Foreground)                              | #455A64 (BLUE GREY 700)    |
 | Number (Foreground)                                   | #CCFF90 (LIGHT GREEN A100) |

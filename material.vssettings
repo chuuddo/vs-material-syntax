@@ -12,6 +12,7 @@
                     <Category GUID="{75A05685-00A8-4DED-BAE5-E7A50BFA929A}" FontIsDefault="Yes">
                         <Items>
                             <Item Name="XML Doc Comment" Foreground="0x009C9078" Background="0x02000000" BoldFont="No"/>
+                            <Item Name="urlformat" Foreground="0x00809EFF" Background="0x02000000" BoldFont="No"/>
                             <Item Name="Visible Whitespace" Foreground="0x00645A45" Background="0x02000000" BoldFont="No"/>
                             <Item Name="Line Number" Foreground="0x00645A45" Background="0x02000000" BoldFont="No"/>
                             <Item Name="Number" Foreground="0x0090FFCC" Background="0x02000000" BoldFont="No"/>
