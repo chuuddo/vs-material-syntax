@@ -35,6 +35,7 @@
 | class name (Foreground)                               | #FFD180 (ORANGE A100)      |
 | string - verbatim (Foreground)                        | #FF9E80 (DEEP ORANGE A100) |
 | punctuation (Foreground)                              | #80D8FF (LIGHT BLUE A100)  |
+| FSharp.Function (Foreground)                          | #42A5F5 (BLUE 400)         |
 | Visible Whitespace (Foreground)                       | #455A64 (BLUE GREY 700)    |
 | Plain Text (Foreground)                               | #ECEFF1 (BLUE GREY 50)     |
 | Plain Text (Background)                               | #263238 (BLUE GREY 900)    |

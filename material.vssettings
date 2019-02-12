@@ -45,6 +45,7 @@
                             <Item Name="class name" Foreground="0x0080D1FF" Background="0x02000000" BoldFont="No"/>
                             <Item Name="string - verbatim" Foreground="0x00809EFF" Background="0x02000000" BoldFont="No"/>
                             <Item Name="punctuation" Foreground="0x00FFD880" Background="0x02000000" BoldFont="No"/>
+                            <Item Name="FSharp.Function" Foreground="0x00F5A542" Background="0x02000000" BoldFont="No"/>
                         </Items>
                     </Category>
                     <Category GUID="{58E96763-1D3B-4E05-B6BA-FF7115FD0B7B}" FontIsDefault="Yes">
