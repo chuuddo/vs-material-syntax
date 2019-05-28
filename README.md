@@ -1,3 +1,7 @@
+### Screenshots
+![C#](https://github.com/chuuddo/vs-material-syntax/raw/master/csharp.png)
+![XAML](https://github.com/chuuddo/vs-material-syntax/raw/master/xaml.png)
+
 ### Colors
 | ID                                                    | Color (Material ID)        |
 |-------------------------------------------------------|----------------------------|
